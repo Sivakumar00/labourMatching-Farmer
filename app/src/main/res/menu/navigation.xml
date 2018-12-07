@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_my_jobs"
+        android:icon="@drawable/myjobs"
+        android:title="My Jobs" />
+
+    <item
+        android:id="@+id/navigation_near_me"
+        android:icon="@drawable/nearme"
+        android:title="Near Me" />
+
+    <item
+        android:id="@+id/navigation_payment"
+        android:icon="@drawable/payment"
+        android:title="Payment"/>
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile"/>
+</menu>
